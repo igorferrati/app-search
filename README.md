@@ -1,5 +1,3 @@
-## Estudos go
-
 ### app search
 Para busca ips:
 ```
@@ -10,5 +8,3 @@ Para busca servidores:
 ```
 go run .\main.go servidores --host amazon.com.br     
 ```
-
-### api
